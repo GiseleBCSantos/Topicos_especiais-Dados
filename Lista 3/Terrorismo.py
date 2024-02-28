@@ -80,7 +80,7 @@ class Terrorismo:
                     print(f"País: {pais}\nIncidentes: {incidente}\n------------------")
 
 
-terrorismo = Terrorismo('terrorismo.csv')
+# terrorismo = Terrorismo('terrorismo.csv')
 
 # terrorismo.pais_com_mais_mortes_por_terrorismo()
 
